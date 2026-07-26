@@ -15,7 +15,7 @@ WhatsApp message ──▶ Twilio ──▶ Flask endpoint ──▶ Agent tool 
 ## Quick start
 
 ```bash
-git clone https://github.com/dawoodkhan92/Agent-infinity.git
+git clone https://github.com/dawood-k/Agent-infinity.git
 cd Agent-infinity
 pip install -r requirements.txt
 cp .env.example .env      # add your Twilio + DB_TOKEN secrets
